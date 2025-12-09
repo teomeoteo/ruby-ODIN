@@ -10,3 +10,6 @@ Used the #scan method and regex to simpify the code
 ## Stock Picker
 First try is very complex and will attempt a better approach\
 Second try "stock\_picker\_simple.rb" performs much better and is clearer
+
+## Bubble Sort
+Pretty simple loop until no swaps, better than recursion since no additionall call stacks
